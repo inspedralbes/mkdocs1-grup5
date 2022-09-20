@@ -1,5 +1,8 @@
 # mkdocs1-grup5
-Grup 5 format per: Albert De La Orza Martí, Valeria Nicoll Zavaleta Vásquez i Yolanda Moreno Arranz.
+*Grup 5*, format per: 
+- Albert De La Orza Martí
+- Valeria Nicoll Zavaleta Vásquez 
+- Yolanda Moreno Arranz
 
 ## Pasos a seguir
 
