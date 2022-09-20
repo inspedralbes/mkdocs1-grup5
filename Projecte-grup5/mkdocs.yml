@@ -1,4 +1,5 @@
 site_name: Projecte Grup 5
+
 nav:
-    - 'index.md'
-    - 'Profes.md'
+    - 'assignatures.md'
+    - 'profes.md'

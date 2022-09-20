@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Benvinguts a l'Institut Pedralbes
 
-He editat tota aquesta linia
+
 
 ## Commands
 
