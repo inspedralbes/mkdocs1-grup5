@@ -1,15 +1,16 @@
 # mkdocs1-grup5
-mkdocs1-grup5 created by GitHub Classroom
+Grup 5 format per: Albert De La Orza Martí, Valeria Nicoll Zavaleta Vásquez i Yolanda Moreno Arranz.
+
 ## Pasos a seguir
 
-**Paso 0** → Crear token (nos servirá para hacer push).
-**Paso 1** → Hacer “git clone url”.
-**Paso 2** → Crear los archivos (en caso que ya estén creados, haremos “git pull”).
-**Paso 3** → Una vez hechos los cambios, “git commit -m ‘comentario’ ”.
-**Paso 4** → Nos pedirá que nos identifiquemos con “git config –global user.email ‘correo’ “ y “git config –global user.name ‘nombre’ ”, entonces ya podremos hacer git commit
-**Paso 5** → Hacer “git push”, donde nos pedirá el nombre de usuario y la contraseña (en este caso, la contraseña es el token que hemos creado). 
+0. Crear token (nos servirá para hacer push).
+1. Hacer “git clone url”.
+2. Crear los archivos (en caso que ya estén creados, haremos “git pull”).
+3. Una vez hechos los cambios, “git commit -m ‘comentario’ ”.
+4. Nos pedirá que nos identifiquemos con “git config –global user.email ‘correo’ “ y “git config –global user.name ‘nombre’ ”, entonces ya podremos hacer git commit
+5. Hacer “git push”, donde nos pedirá el nombre de usuario y la contraseña (en este caso, la contraseña es el token que hemos creado). 
 
-## Objetivo:
+## Objetivo
 
  - Crear archivo README donde explique TODOS los pasos que hemos tenido
    que hacer. 
