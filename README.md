@@ -4,24 +4,23 @@
 - Valeria Nicoll Zavaleta Vásquez 
 - Yolanda Moreno Arranz
 
-## Pasos a seguir
+## Passos a seguir
 
-0. Crear token (nos servirá para hacer push).
-1. Hacer *git clone url*.
-2. Crear los archivos (en caso que ya estén creados, haremos *git pull*).
-3. Una vez hechos los cambios, “git commit -m ‘comentario’ ”.
-4. Nos pedirá que nos identifiquemos con *git config –global user.email ‘correo’* y *git config –global user.name ‘nombre’*, entonces ya podremos hacer *git commit*
-5. Hacer *git push*, donde nos pedirá el nombre de usuario y la contraseña (en este caso, la contraseña es el token que hemos creado). 
+0. Crear token (ens servirà per fer *git push*).
+1. Fer *git clone url*.
+2. Crear els arxius (en cas que ja estiguin creats, farem *git pull*).
+3. Un cop hem fet els canvis, farem *git commit -m ‘comentario’*.
+4. Ens demanarà que ens identifiquem amb *git config –global user.email ‘correo’* i *git config –global user.name ‘nombre’* (només un cop), llavors ja podrem fer el *git commit*.
+5. Fer *git push*, on ens demanarà el nom d'usuari i la contrasenya (en aquest cas, la contrasenya és el token que hem creat). 
 
-## Objetivo
+## Objetiu
 
- - Crear archivo *README.md* donde explique TODOS los pasos que hemos tenido
-   que hacer. 
+ - Crear un arxiu *README.md* on expliqui tots els passos que hem hagut de fer.
    
- - Crear *index.md* (que te lleve a asignaturas.md y a profes.md).
+ - Crear *index.md* (que et porti a *assignatures.md* i a *profes.md*).
    
- - Crear *profes.md*, que tendrá un listado de todos los profes del ciclo, así como el tutor. 
+ - Crear *profes.md*, que tindrà un llistat de tots els professors del cicle, així com el tutor.
    
- - Crear *assignaturas.md*, que tendrá un listado con 4 asignaturas. 
+ - Crear *assignatures.md*, que tindrà un llistat amb 4 assignatures. 
    
- - Crear *assignatura1.md*, *assignatura2.md*, *assignatura3.md*, *assignatura4.md* y dentro de cada una hay que poner quién es el profe (y quizás más información) y un botón para volver a *index.md*, por ejemplo.
+ - Crear *assignatura1.md*, *assignatura2.md*, *assignatura3.md*, *assignatura4.md* i dins de cadascuna, contindrà qui és el professor i un botó per tornar a *index.md*.
