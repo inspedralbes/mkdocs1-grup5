@@ -3,3 +3,13 @@ site_name: Projecte Grup 5
 nav:
     - 'assignatures.md'
     - 'profes.md'
+seo:
+  title: Institut Pedralbes
+  description: Learn how to work with Example APIs
+nav:
+  - label: Professors
+    page: docs/profes.md
+  - label: Example page
+    page: developer-portal/markdown.md
+  - label: External docs
+    href: 'https://google.com'
